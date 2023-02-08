@@ -235,7 +235,7 @@ hr { border-top: 4px solid #CCC; }
 	width: 75%;
 	height: 100%;
 	margin-left: 5%;
-	
+	display: block;
 }
 
 .container_text{
